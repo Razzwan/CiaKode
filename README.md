@@ -3,7 +3,7 @@
 ## [CiaKode Candidate](https://github.com/yegor256/blog/blob/master/_posts/2019/nov/2019-11-03-award-2020.md)
 
 ### Repository view
-[x] More than one year old (first commit was made on May 6, 2012)
+    [x] More than one year old (first commit was made on May 6, 2012)
 + CLOC: 15844 (12574 in JavaScript)
 + CI (GitHub actions)
 ++ Awesome demo site with usage description https://cloudcmd.io/
