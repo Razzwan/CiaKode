@@ -23,10 +23,12 @@
 - [x] Simple, clear small enough files
 
 ### Summary:
-+ Code-wise the project is good enough
-++ Perfect demo site with usage examples
-- However, it's hard to start contribute this project
--- Tests are not passed locally (and not description how to execute them correctly)
+* Code-wise the project is good enough  +4
+* Perfect demo site with usage examples +1
+* Good activiti and 20 contributor +1
+
+* However, it's hard to start contribute this project
+* Tests are not passed locally (and not description how to execute them correctly)
 
 Score: 6/10
 A good candidate for the final
