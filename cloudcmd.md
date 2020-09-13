@@ -15,22 +15,22 @@
 - [x] 48 PRs with 20 contributors
 
 ### Code quality
-- [x] tests is present
-- [ ] tests is broken out of the box (8 tests are failed)
-- [ ] messed file structure (not all files located logically, some of them unexpected location - for example fonts located out of client, but never used enywhere else)
-- [ ] Code contain hardcoded string variables, which better move to constants or to config file (such as urls, hardcoded config names)
-- [ ] no system in module.exports (sometime exports on the top of file, sometime in the middle)
-- [x] Code quality badge is present
-- [x] Master branch has no compilation errors
 - [x] Simple, clear small enough files
+- [x] Master branch has no compilation errors
+- [ ] messed file structure (not all files located logically, some of them unexpected location - for example fonts located out of client, but never used enywhere else)
+- [x] tests is present
+- [x] tests are passed out of the box (after build only) strange that the tests require build -0.5
+- [ ] Code contain hardcoded string variables, which better move to constants or to config file (such as urls, hardcoded config names)
+- [ ] no systematic with module.exports (sometime exports on the top of file, sometime in the middle)
+- [x] Code quality badge is present
+
 
 ### Summary:
 * Code-wise the project is good enough  +4
 * Perfect demo site with usage examples +1
 * Good activiti and 20 contributor +1
 
-* However, it's hard to start contribute this project
-* Tests are not passed locally (and not description how to execute them correctly)
+* However, it's hard to start contribute this project, because of messed file structure withoutd description and hardcoded string variables
 
-Score: 6/10
+Score: 7/10
 A good candidate for the final
