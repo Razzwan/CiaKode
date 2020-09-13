@@ -1,6 +1,6 @@
-# CiaKode
+# coderaiser/cloudcmd
 
-coderaiser/cloudcmd
+## [CiaKode Candidate](https://github.com/yegor256/blog/blob/master/_posts/2019/nov/2019-11-03-award-2020.md)
 
 ### Repository view
 + More than one year old (first commit was made on May 6, 2012)
