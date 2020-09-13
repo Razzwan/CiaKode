@@ -4,33 +4,27 @@
 
 ### Repository view
 - [x] More than one year old (first commit was made on Sep 16, 2018)
-- [ ] CLOC: 15844 (12574 in JavaScript)
-- [ ] CI (GitHub actions)
-- [ ] Awesome demo site with usage description https://cloudcmd.io/
-- [ ] Block with short project history http://blog.cloudcmd.io/
-- [ ] Descriptive good README with examples
-- [ ] CODE_OF_CONDUCT.md description is present
-- [ ] CONTRIBUTING.md is present
-- [ ] 235 closed and 11 opened issues
-- [ ] 48 PRs with 20 contributors
+- [x] CLOC: 4204 (3650 in JavaScript) - looks like one file was added for the strings amount
+- [ ] NO CI
+- [x] repo looks like an example for the article https://itnext.io/you-dont-know-tdd-691efe670094 
+- [ ] No READMY
+- [ ] Not clear how to contribute
+- [ ] No issues
+- [ ] No PRs and only 1 contributor
 
 ### Code quality
-- [ ] tests is present
-- [ ] tests is broken out of the box (8 tests are failed)
-- [ ] messed file structure (not all files located logically, some of them unexpected location - for example fonts located out of client, but never used enywhere else)
-- [ ] Code contain hardcoded string variables, which better move to constants or to config file (such as urls, hardcoded config names)
-- [ ] no system in module.exports (sometime exports on the top of file, sometime in the middle)
-- [ ] Code quality badge is present
-- [ ] Master branch has no compilation errors
-- [ ] Simple, clear small enough files
+- [ ] tests is NOT present
+- [ ] clear and simple file structure, but there are only 4 files
+- [ ] One file is 5200 strings and all the rest are quite short
+- [ ] mixed spases with tabs
+- [ ] Code quality badge is NOT present
+- [x] Master branch has no compilation errors
 
 ### Summary:
-* Code-wise the project is good enough  +4
-* Perfect demo site with usage examples +1
-* Good activiti and 20 contributor +1
+* Perfect examle how to use TDD for the project +1
 
-* However, it's hard to start contribute this project, not description how to test and description with file structure explanation
-* Tests are not passed locally (and not description how to execute them correctly)
+* Howerver, code-wise the project doesn't fit requirememnts from my opinion
+* Low projedt activity
 
-Score: 6/10
-A good candidate for the final
+Score: 1/10
+Doesn't fit requirements, not recomended for the final stage
