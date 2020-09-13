@@ -18,6 +18,8 @@
 - [x] tests is present
 - [ ] tests is broken out of the box (8 tests are failed)
 - [ ] messed file structure (not all files located logically, some of them unexpected location - for example fonts located out of client, but never used enywhere else)
+- [ ] Code contain hardcoded string variables, which better move to constants or to config file (such as urls, hardcoded config names)
+- [ ] no system in module.exports (sometime exports on the top of file, sometime in the middle)
 - [x] Code quality badge is present
 - [x] Master branch has no compilation errors
 - [x] Simple, clear small enough files
